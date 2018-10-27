@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "source": "spell.md",
+  "format": "html",
+  "prefix": "../../",
+  "mainga": "UA-49880327-14",
+  "updated": "2018-10-27T00:59:33-05:00",
+  "id": "24242443",
+  "duration": 1,
+  "title": "Configuración de Spell",
+  "author": "Allan López",
+  "summary": "Configuración de Spell",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "sdk"
+  ],
+  "tags": [
+    "python"
+  ],
+  "feedback": "github.com/allanloji",
+  "ga": "0",
+  "url": "24242443"
+}
